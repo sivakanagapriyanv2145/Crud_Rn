@@ -1,5 +1,5 @@
-import {View, TextInput, TouchableOpacity, Text, StyleSheet } from "react-native";
-import {useState } from "react";
+import { View, TextInput, TouchableOpacity, Text, StyleSheet } from "react-native";
+import { useState } from "react";
 
 
 export default function AddScreen({route, navigation}) {
